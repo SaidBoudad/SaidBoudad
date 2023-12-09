@@ -1,7 +1,8 @@
-# said-boudad
+
 # Hello, I'm Said Boudad 👋
 
-Welcome to my GitHub profile! I'm a FullStuck Developer.
+Welcome to my GitHub profile! I'm a FullStack Developer.  
+
 I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
 
 I'm a well organized person very passionate and dedicated to my work. I'm used to always finish my work until the end.
@@ -11,13 +12,13 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 ## 🌱 Main skills:
 - Java
 - Springboot
-- javascript
+- Javascript
 - React
-- aws
-- hibernate
+- AWS
+- Hibernate
 - Thymleaf
 - HTML5
-- css3
+- CSS3
 - GIT
 
 ## 🌱 Currently Learning
