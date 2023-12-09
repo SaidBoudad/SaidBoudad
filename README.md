@@ -20,6 +20,7 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 - HTML5
 - CSS3
 - GIT
+- Agil Scrum							
 
 ## 🌱 Currently Learning
 
