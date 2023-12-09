@@ -22,18 +22,18 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 
 ## 🌱 Currently Learning
 
-- [React]
-- [AWS]
+- Advanced React
+- AWS
 
 ## 🔭 Projects
 
 Here are some of the projects I'm currently working on:
 
-- [EasyHomeManagement](https://github.com/SaidBoudad/EasyHomeManagement))
-- [Application-for-brain-exercises](https://github.com/SaidBoudad/Application-for-brain-exercises))
+- EasyHomeManagement(https://github.com/SaidBoudad/EasyHomeManagement))
+- Application-for-brain-exercises(https://github.com/SaidBoudad/Application-for-brain-exercises))
 - ...
 
 ## 📫 Contact Me
 
-- LinkedIn: ([link-to-linkedin](https://github.com/SaidBoudad))
+- LinkedIn: (https://github.com/SaidBoudad)
 - Email: saidboudad35@gmail.com
