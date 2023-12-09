@@ -1,5 +1,5 @@
 <div align="center">
-  <h1># Hello, I'm Said Boudad 👋</h1>
+  <h1>Hello, I'm Said Boudad 👋</h1>
 </div>
 
 
@@ -24,7 +24,7 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 - GIT
 - Agil Scrum							
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Advanced React
 - AWS
