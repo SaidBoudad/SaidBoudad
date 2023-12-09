@@ -1,5 +1,7 @@
+<div align="center">
+  <h1># Hello, I'm Said Boudad 👋</h1>
+</div>
 
-# Hello, I'm Said Boudad 👋
 
 Welcome to my GitHub profile! I'm a FullStack Developer.  
 
